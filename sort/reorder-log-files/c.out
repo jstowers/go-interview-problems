@@ -1,0 +1,11 @@
+mode: set
+reorderlogfiles/main.go:14.13,19.2 3 0
+reorderlogfiles/main.go:21.46,27.27 3 1
+reorderlogfiles/main.go:42.2,42.51 1 1
+reorderlogfiles/main.go:58.2,58.41 1 1
+reorderlogfiles/main.go:27.27,32.39 2 1
+reorderlogfiles/main.go:32.39,34.4 1 1
+reorderlogfiles/main.go:34.9,36.4 1 1
+reorderlogfiles/main.go:42.51,51.19 5 1
+reorderlogfiles/main.go:55.3,55.21 1 1
+reorderlogfiles/main.go:51.19,53.4 1 0
