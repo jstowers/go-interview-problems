@@ -2,7 +2,7 @@
 
 ## What is Dynamic Programming?
 
-DP is a programming technique that breaks down a complex problem into smaller subproblems.  DP can solve complex problems in faster time.
+DP is a programming technique that breaks down a complex problem into smaller subproblems.  DP can solve complex problems faster than brute force or other conventional algorithms.
 
 A dynamic programming (DP) problem has two key characteristics:
 
