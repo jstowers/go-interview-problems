@@ -1,8 +1,10 @@
-# Dynamic Programming (DP)
+# __Dynamic Programming (DP)__
 
 ## What is Dynamic Programming?
 
 DP is a programming technique that breaks down a complex problem into smaller subproblems.  DP can solve complex problems faster than brute force or other conventional algorithms.
+
+## __Characteristics__
 
 A dynamic programming (DP) problem has two key characteristics:
 
@@ -12,19 +14,13 @@ A dynamic programming (DP) problem has two key characteristics:
 
 To contrast, greedy problems have optimal substructure but not overlapping subproblems.  Divide-and-conquer algorithms break problems down into smaller subproblems, but they don't overlap.
 
-### Advantages
+## __Advantages__
 
 •  DP aids in solving complex problems.
 
 •  DP greatly improves the time complexity compared to brute force solutions.  For instance, the brute force solution for Fibonacci sequence requires exponential time complexity.  The DP solution is linear!
 
-## Solution Approaches
-
-1. Top Down - recursion with memoization
-
-2. Bottoms Up - tabulation (a `dp` table)
-
-## Know When a DP Problem is Asked
+## __What Does a DP Problem Look Like?__
 
 DP problems have two trademark characteristics.  First, they ask to solve a certain type of problem.  Second, future alogrithmic decisions depend on earlier decisions.
 
@@ -48,5 +44,13 @@ Examples:
 ### 2.  Future "decisions" depend on earlier decisions.
 
 In DP problems, you need to factor in results from previous decisions.
+
+## __Solution Approaches__
+
+A DP problem can be solved in one of two ways:
+
+1. Top Down - recursion with memoization
+
+2. Bottoms Up - tabulation (a `dp` table)
 
 
